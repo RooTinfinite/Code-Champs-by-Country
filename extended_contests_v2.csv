@@ -1,0 +1,1001 @@
+contest,rank,handle,country
+Code Contest 1,1,user0011,Canada
+Code Contest 1,2,user0012,Portugal
+Code Contest 1,3,user0013,New Zealand
+Code Contest 1,4,user0014,Mexico
+Code Contest 1,5,user0015,Japan
+Code Contest 1,6,user0016,China
+Code Contest 1,7,user0017,Brazil
+Code Contest 1,8,user0018,Singapore
+Code Contest 1,9,user0019,Australia
+Code Contest 1,10,user00110,Philippines
+Code Contest 2,1,user0021,Belgium
+Code Contest 2,2,user0022,Czech Republic
+Code Contest 2,3,user0023,Portugal
+Code Contest 2,4,user0024,Australia
+Code Contest 2,5,user0025,Italy
+Code Contest 2,6,user0026,Japan
+Code Contest 2,7,user0027,Chile
+Code Contest 2,8,user0028,Vietnam
+Code Contest 2,9,user0029,Portugal
+Code Contest 2,10,user00210,Indonesia
+Code Contest 3,1,user0031,India
+Code Contest 3,2,user0032,Singapore
+Code Contest 3,3,user0033,Denmark
+Code Contest 3,4,user0034,Japan
+Code Contest 3,5,user0035,Greece
+Code Contest 3,6,user0036,Philippines
+Code Contest 3,7,user0037,New Zealand
+Code Contest 3,8,user0038,Poland
+Code Contest 3,9,user0039,France
+Code Contest 3,10,user00310,Belgium
+Code Contest 4,1,user0041,Sweden
+Code Contest 4,2,user0042,New Zealand
+Code Contest 4,3,user0043,Finland
+Code Contest 4,4,user0044,Italy
+Code Contest 4,5,user0045,Sweden
+Code Contest 4,6,user0046,Brazil
+Code Contest 4,7,user0047,Australia
+Code Contest 4,8,user0048,USA
+Code Contest 4,9,user0049,Brazil
+Code Contest 4,10,user00410,Switzerland
+Code Contest 5,1,user0051,Switzerland
+Code Contest 5,2,user0052,Vietnam
+Code Contest 5,3,user0053,Netherlands
+Code Contest 5,4,user0054,Czech Republic
+Code Contest 5,5,user0055,Israel
+Code Contest 5,6,user0056,Singapore
+Code Contest 5,7,user0057,Canada
+Code Contest 5,8,user0058,USA
+Code Contest 5,9,user0059,Australia
+Code Contest 5,10,user00510,Indonesia
+Code Contest 6,1,user0061,Slovakia
+Code Contest 6,2,user0062,Thailand
+Code Contest 6,3,user0063,United Kingdom
+Code Contest 6,4,user0064,Malaysia
+Code Contest 6,5,user0065,India
+Code Contest 6,6,user0066,Argentina
+Code Contest 6,7,user0067,Czech Republic
+Code Contest 6,8,user0068,Japan
+Code Contest 6,9,user0069,Slovakia
+Code Contest 6,10,user00610,Australia
+Code Contest 7,1,user0071,Japan
+Code Contest 7,2,user0072,Brazil
+Code Contest 7,3,user0073,USA
+Code Contest 7,4,user0074,New Zealand
+Code Contest 7,5,user0075,Israel
+Code Contest 7,6,user0076,United Kingdom
+Code Contest 7,7,user0077,France
+Code Contest 7,8,user0078,United Kingdom
+Code Contest 7,9,user0079,Switzerland
+Code Contest 7,10,user00710,Italy
+Code Contest 8,1,user0081,New Zealand
+Code Contest 8,2,user0082,Argentina
+Code Contest 8,3,user0083,Vietnam
+Code Contest 8,4,user0084,France
+Code Contest 8,5,user0085,Singapore
+Code Contest 8,6,user0086,Mexico
+Code Contest 8,7,user0087,France
+Code Contest 8,8,user0088,Israel
+Code Contest 8,9,user0089,USA
+Code Contest 8,10,user00810,New Zealand
+Code Contest 9,1,user0091,Indonesia
+Code Contest 9,2,user0092,Japan
+Code Contest 9,3,user0093,Spain
+Code Contest 9,4,user0094,Hungary
+Code Contest 9,5,user0095,Japan
+Code Contest 9,6,user0096,Czech Republic
+Code Contest 9,7,user0097,Spain
+Code Contest 9,8,user0098,Norway
+Code Contest 9,9,user0099,New Zealand
+Code Contest 9,10,user00910,Argentina
+Code Contest 10,1,user0101,Italy
+Code Contest 10,2,user0102,Malaysia
+Code Contest 10,3,user0103,Spain
+Code Contest 10,4,user0104,Italy
+Code Contest 10,5,user0105,Ireland
+Code Contest 10,6,user0106,Norway
+Code Contest 10,7,user0107,Israel
+Code Contest 10,8,user0108,Finland
+Code Contest 10,9,user0109,Netherlands
+Code Contest 10,10,user01010,China
+Code Contest 11,1,user0111,Mexico
+Code Contest 11,2,user0112,Indonesia
+Code Contest 11,3,user0113,Singapore
+Code Contest 11,4,user0114,Netherlands
+Code Contest 11,5,user0115,Philippines
+Code Contest 11,6,user0116,Belgium
+Code Contest 11,7,user0117,Philippines
+Code Contest 11,8,user0118,Norway
+Code Contest 11,9,user0119,United Kingdom
+Code Contest 11,10,user01110,Japan
+Code Contest 12,1,user0121,China
+Code Contest 12,2,user0122,Chile
+Code Contest 12,3,user0123,Ireland
+Code Contest 12,4,user0124,Australia
+Code Contest 12,5,user0125,Hungary
+Code Contest 12,6,user0126,Canada
+Code Contest 12,7,user0127,Finland
+Code Contest 12,8,user0128,France
+Code Contest 12,9,user0129,Belgium
+Code Contest 12,10,user01210,Vietnam
+Code Contest 13,1,user0131,Argentina
+Code Contest 13,2,user0132,USA
+Code Contest 13,3,user0133,USA
+Code Contest 13,4,user0134,Vietnam
+Code Contest 13,5,user0135,Israel
+Code Contest 13,6,user0136,South Africa
+Code Contest 13,7,user0137,Netherlands
+Code Contest 13,8,user0138,Indonesia
+Code Contest 13,9,user0139,Poland
+Code Contest 13,10,user01310,Canada
+Code Contest 14,1,user0141,Singapore
+Code Contest 14,2,user0142,New Zealand
+Code Contest 14,3,user0143,Sweden
+Code Contest 14,4,user0144,Canada
+Code Contest 14,5,user0145,Slovakia
+Code Contest 14,6,user0146,Belgium
+Code Contest 14,7,user0147,France
+Code Contest 14,8,user0148,Israel
+Code Contest 14,9,user0149,Poland
+Code Contest 14,10,user01410,Netherlands
+Code Contest 15,1,user0151,Chile
+Code Contest 15,2,user0152,Germany
+Code Contest 15,3,user0153,Chile
+Code Contest 15,4,user0154,Brazil
+Code Contest 15,5,user0155,South Korea
+Code Contest 15,6,user0156,Chile
+Code Contest 15,7,user0157,Vietnam
+Code Contest 15,8,user0158,India
+Code Contest 15,9,user0159,Finland
+Code Contest 15,10,user01510,United Kingdom
+Code Contest 16,1,user0161,France
+Code Contest 16,2,user0162,Singapore
+Code Contest 16,3,user0163,South Africa
+Code Contest 16,4,user0164,Poland
+Code Contest 16,5,user0165,Vietnam
+Code Contest 16,6,user0166,Spain
+Code Contest 16,7,user0167,Ireland
+Code Contest 16,8,user0168,Portugal
+Code Contest 16,9,user0169,Canada
+Code Contest 16,10,user01610,United Kingdom
+Code Contest 17,1,user0171,South Korea
+Code Contest 17,2,user0172,Mexico
+Code Contest 17,3,user0173,Hungary
+Code Contest 17,4,user0174,Mexico
+Code Contest 17,5,user0175,Malaysia
+Code Contest 17,6,user0176,Australia
+Code Contest 17,7,user0177,Australia
+Code Contest 17,8,user0178,Ireland
+Code Contest 17,9,user0179,Argentina
+Code Contest 17,10,user01710,Singapore
+Code Contest 18,1,user0181,China
+Code Contest 18,2,user0182,China
+Code Contest 18,3,user0183,Turkey
+Code Contest 18,4,user0184,Indonesia
+Code Contest 18,5,user0185,France
+Code Contest 18,6,user0186,Netherlands
+Code Contest 18,7,user0187,South Africa
+Code Contest 18,8,user0188,Vietnam
+Code Contest 18,9,user0189,Belgium
+Code Contest 18,10,user01810,Italy
+Code Contest 19,1,user0191,Singapore
+Code Contest 19,2,user0192,India
+Code Contest 19,3,user0193,South Korea
+Code Contest 19,4,user0194,Norway
+Code Contest 19,5,user0195,United Kingdom
+Code Contest 19,6,user0196,Greece
+Code Contest 19,7,user0197,South Africa
+Code Contest 19,8,user0198,Greece
+Code Contest 19,9,user0199,Canada
+Code Contest 19,10,user01910,Mexico
+Code Contest 20,1,user0201,Japan
+Code Contest 20,2,user0202,Argentina
+Code Contest 20,3,user0203,Sweden
+Code Contest 20,4,user0204,Portugal
+Code Contest 20,5,user0205,Philippines
+Code Contest 20,6,user0206,Indonesia
+Code Contest 20,7,user0207,Japan
+Code Contest 20,8,user0208,Philippines
+Code Contest 20,9,user0209,Japan
+Code Contest 20,10,user02010,Poland
+Code Contest 21,1,user0211,Argentina
+Code Contest 21,2,user0212,Hungary
+Code Contest 21,3,user0213,Japan
+Code Contest 21,4,user0214,Argentina
+Code Contest 21,5,user0215,Czech Republic
+Code Contest 21,6,user0216,Sweden
+Code Contest 21,7,user0217,Argentina
+Code Contest 21,8,user0218,Chile
+Code Contest 21,9,user0219,Mexico
+Code Contest 21,10,user02110,New Zealand
+Code Contest 22,1,user0221,Ireland
+Code Contest 22,2,user0222,Italy
+Code Contest 22,3,user0223,Singapore
+Code Contest 22,4,user0224,China
+Code Contest 22,5,user0225,Malaysia
+Code Contest 22,6,user0226,Malaysia
+Code Contest 22,7,user0227,Turkey
+Code Contest 22,8,user0228,Mexico
+Code Contest 22,9,user0229,Turkey
+Code Contest 22,10,user02210,Denmark
+Code Contest 23,1,user0231,India
+Code Contest 23,2,user0232,Brazil
+Code Contest 23,3,user0233,Brazil
+Code Contest 23,4,user0234,Belgium
+Code Contest 23,5,user0235,Switzerland
+Code Contest 23,6,user0236,Belgium
+Code Contest 23,7,user0237,Denmark
+Code Contest 23,8,user0238,Israel
+Code Contest 23,9,user0239,Hungary
+Code Contest 23,10,user02310,Brazil
+Code Contest 24,1,user0241,Hungary
+Code Contest 24,2,user0242,Norway
+Code Contest 24,3,user0243,Sweden
+Code Contest 24,4,user0244,Brazil
+Code Contest 24,5,user0245,Mexico
+Code Contest 24,6,user0246,India
+Code Contest 24,7,user0247,India
+Code Contest 24,8,user0248,Singapore
+Code Contest 24,9,user0249,Greece
+Code Contest 24,10,user02410,China
+Code Contest 25,1,user0251,Belgium
+Code Contest 25,2,user0252,Germany
+Code Contest 25,3,user0253,New Zealand
+Code Contest 25,4,user0254,Israel
+Code Contest 25,5,user0255,Mexico
+Code Contest 25,6,user0256,Argentina
+Code Contest 25,7,user0257,Greece
+Code Contest 25,8,user0258,Indonesia
+Code Contest 25,9,user0259,Brazil
+Code Contest 25,10,user02510,Hungary
+Code Contest 26,1,user0261,Singapore
+Code Contest 26,2,user0262,Poland
+Code Contest 26,3,user0263,Australia
+Code Contest 26,4,user0264,Mexico
+Code Contest 26,5,user0265,France
+Code Contest 26,6,user0266,Denmark
+Code Contest 26,7,user0267,Ireland
+Code Contest 26,8,user0268,Turkey
+Code Contest 26,9,user0269,Italy
+Code Contest 26,10,user02610,Norway
+Code Contest 27,1,user0271,Hungary
+Code Contest 27,2,user0272,France
+Code Contest 27,3,user0273,USA
+Code Contest 27,4,user0274,Poland
+Code Contest 27,5,user0275,USA
+Code Contest 27,6,user0276,Netherlands
+Code Contest 27,7,user0277,Israel
+Code Contest 27,8,user0278,Slovakia
+Code Contest 27,9,user0279,Belgium
+Code Contest 27,10,user02710,Indonesia
+Code Contest 28,1,user0281,Ireland
+Code Contest 28,2,user0282,Finland
+Code Contest 28,3,user0283,India
+Code Contest 28,4,user0284,Slovakia
+Code Contest 28,5,user0285,Italy
+Code Contest 28,6,user0286,Hungary
+Code Contest 28,7,user0287,Philippines
+Code Contest 28,8,user0288,Singapore
+Code Contest 28,9,user0289,Hungary
+Code Contest 28,10,user02810,Spain
+Code Contest 29,1,user0291,Hungary
+Code Contest 29,2,user0292,Hungary
+Code Contest 29,3,user0293,Philippines
+Code Contest 29,4,user0294,Turkey
+Code Contest 29,5,user0295,Chile
+Code Contest 29,6,user0296,South Africa
+Code Contest 29,7,user0297,France
+Code Contest 29,8,user0298,Hungary
+Code Contest 29,9,user0299,Chile
+Code Contest 29,10,user02910,Australia
+Code Contest 30,1,user0301,Germany
+Code Contest 30,2,user0302,Argentina
+Code Contest 30,3,user0303,Vietnam
+Code Contest 30,4,user0304,Argentina
+Code Contest 30,5,user0305,Mexico
+Code Contest 30,6,user0306,Norway
+Code Contest 30,7,user0307,Canada
+Code Contest 30,8,user0308,Malaysia
+Code Contest 30,9,user0309,Mexico
+Code Contest 30,10,user03010,Philippines
+Code Contest 31,1,user0311,Vietnam
+Code Contest 31,2,user0312,Czech Republic
+Code Contest 31,3,user0313,Thailand
+Code Contest 31,4,user0314,Australia
+Code Contest 31,5,user0315,Denmark
+Code Contest 31,6,user0316,Philippines
+Code Contest 31,7,user0317,Malaysia
+Code Contest 31,8,user0318,South Africa
+Code Contest 31,9,user0319,Spain
+Code Contest 31,10,user03110,Netherlands
+Code Contest 32,1,user0321,Italy
+Code Contest 32,2,user0322,Spain
+Code Contest 32,3,user0323,Mexico
+Code Contest 32,4,user0324,Netherlands
+Code Contest 32,5,user0325,Norway
+Code Contest 32,6,user0326,China
+Code Contest 32,7,user0327,South Korea
+Code Contest 32,8,user0328,Israel
+Code Contest 32,9,user0329,Spain
+Code Contest 32,10,user03210,Argentina
+Code Contest 33,1,user0331,Poland
+Code Contest 33,2,user0332,Israel
+Code Contest 33,3,user0333,Thailand
+Code Contest 33,4,user0334,Malaysia
+Code Contest 33,5,user0335,Brazil
+Code Contest 33,6,user0336,Argentina
+Code Contest 33,7,user0337,Singapore
+Code Contest 33,8,user0338,Italy
+Code Contest 33,9,user0339,Chile
+Code Contest 33,10,user03310,Netherlands
+Code Contest 34,1,user0341,China
+Code Contest 34,2,user0342,Switzerland
+Code Contest 34,3,user0343,Argentina
+Code Contest 34,4,user0344,Mexico
+Code Contest 34,5,user0345,United Kingdom
+Code Contest 34,6,user0346,Slovakia
+Code Contest 34,7,user0347,France
+Code Contest 34,8,user0348,Greece
+Code Contest 34,9,user0349,Singapore
+Code Contest 34,10,user03410,South Korea
+Code Contest 35,1,user0351,Thailand
+Code Contest 35,2,user0352,South Africa
+Code Contest 35,3,user0353,Poland
+Code Contest 35,4,user0354,Indonesia
+Code Contest 35,5,user0355,South Korea
+Code Contest 35,6,user0356,Brazil
+Code Contest 35,7,user0357,China
+Code Contest 35,8,user0358,Netherlands
+Code Contest 35,9,user0359,Canada
+Code Contest 35,10,user03510,Brazil
+Code Contest 36,1,user0361,Indonesia
+Code Contest 36,2,user0362,Finland
+Code Contest 36,3,user0363,New Zealand
+Code Contest 36,4,user0364,Slovakia
+Code Contest 36,5,user0365,Vietnam
+Code Contest 36,6,user0366,Italy
+Code Contest 36,7,user0367,Sweden
+Code Contest 36,8,user0368,Italy
+Code Contest 36,9,user0369,Netherlands
+Code Contest 36,10,user03610,Chile
+Code Contest 37,1,user0371,Ireland
+Code Contest 37,2,user0372,Netherlands
+Code Contest 37,3,user0373,Hungary
+Code Contest 37,4,user0374,Australia
+Code Contest 37,5,user0375,Belgium
+Code Contest 37,6,user0376,New Zealand
+Code Contest 37,7,user0377,Czech Republic
+Code Contest 37,8,user0378,Poland
+Code Contest 37,9,user0379,Sweden
+Code Contest 37,10,user03710,China
+Code Contest 38,1,user0381,Netherlands
+Code Contest 38,2,user0382,France
+Code Contest 38,3,user0383,Greece
+Code Contest 38,4,user0384,Indonesia
+Code Contest 38,5,user0385,Belgium
+Code Contest 38,6,user0386,Indonesia
+Code Contest 38,7,user0387,Poland
+Code Contest 38,8,user0388,Canada
+Code Contest 38,9,user0389,Argentina
+Code Contest 38,10,user03810,Finland
+Code Contest 39,1,user0391,Singapore
+Code Contest 39,2,user0392,Czech Republic
+Code Contest 39,3,user0393,United Kingdom
+Code Contest 39,4,user0394,Philippines
+Code Contest 39,5,user0395,Indonesia
+Code Contest 39,6,user0396,Finland
+Code Contest 39,7,user0397,Belgium
+Code Contest 39,8,user0398,China
+Code Contest 39,9,user0399,Czech Republic
+Code Contest 39,10,user03910,South Korea
+Code Contest 40,1,user0401,United Kingdom
+Code Contest 40,2,user0402,Czech Republic
+Code Contest 40,3,user0403,Switzerland
+Code Contest 40,4,user0404,Italy
+Code Contest 40,5,user0405,Mexico
+Code Contest 40,6,user0406,Brazil
+Code Contest 40,7,user0407,Switzerland
+Code Contest 40,8,user0408,Indonesia
+Code Contest 40,9,user0409,Denmark
+Code Contest 40,10,user04010,Thailand
+Code Contest 41,1,user0411,Finland
+Code Contest 41,2,user0412,Mexico
+Code Contest 41,3,user0413,France
+Code Contest 41,4,user0414,Germany
+Code Contest 41,5,user0415,Denmark
+Code Contest 41,6,user0416,Portugal
+Code Contest 41,7,user0417,Germany
+Code Contest 41,8,user0418,Sweden
+Code Contest 41,9,user0419,Denmark
+Code Contest 41,10,user04110,Mexico
+Code Contest 42,1,user0421,New Zealand
+Code Contest 42,2,user0422,France
+Code Contest 42,3,user0423,Brazil
+Code Contest 42,4,user0424,USA
+Code Contest 42,5,user0425,Czech Republic
+Code Contest 42,6,user0426,Turkey
+Code Contest 42,7,user0427,Japan
+Code Contest 42,8,user0428,India
+Code Contest 42,9,user0429,Israel
+Code Contest 42,10,user04210,Switzerland
+Code Contest 43,1,user0431,South Korea
+Code Contest 43,2,user0432,Japan
+Code Contest 43,3,user0433,Japan
+Code Contest 43,4,user0434,Portugal
+Code Contest 43,5,user0435,India
+Code Contest 43,6,user0436,Norway
+Code Contest 43,7,user0437,Sweden
+Code Contest 43,8,user0438,New Zealand
+Code Contest 43,9,user0439,Argentina
+Code Contest 43,10,user04310,New Zealand
+Code Contest 44,1,user0441,Switzerland
+Code Contest 44,2,user0442,Chile
+Code Contest 44,3,user0443,Norway
+Code Contest 44,4,user0444,Singapore
+Code Contest 44,5,user0445,Sweden
+Code Contest 44,6,user0446,Portugal
+Code Contest 44,7,user0447,Canada
+Code Contest 44,8,user0448,Netherlands
+Code Contest 44,9,user0449,Germany
+Code Contest 44,10,user04410,Philippines
+Code Contest 45,1,user0451,Netherlands
+Code Contest 45,2,user0452,Czech Republic
+Code Contest 45,3,user0453,Brazil
+Code Contest 45,4,user0454,Vietnam
+Code Contest 45,5,user0455,Belgium
+Code Contest 45,6,user0456,Switzerland
+Code Contest 45,7,user0457,Spain
+Code Contest 45,8,user0458,Belgium
+Code Contest 45,9,user0459,Vietnam
+Code Contest 45,10,user04510,Chile
+Code Contest 46,1,user0461,Canada
+Code Contest 46,2,user0462,USA
+Code Contest 46,3,user0463,Malaysia
+Code Contest 46,4,user0464,India
+Code Contest 46,5,user0465,Netherlands
+Code Contest 46,6,user0466,Czech Republic
+Code Contest 46,7,user0467,Belgium
+Code Contest 46,8,user0468,Poland
+Code Contest 46,9,user0469,South Africa
+Code Contest 46,10,user04610,Singapore
+Code Contest 47,1,user0471,India
+Code Contest 47,2,user0472,United Kingdom
+Code Contest 47,3,user0473,Belgium
+Code Contest 47,4,user0474,Argentina
+Code Contest 47,5,user0475,Sweden
+Code Contest 47,6,user0476,Thailand
+Code Contest 47,7,user0477,Spain
+Code Contest 47,8,user0478,Canada
+Code Contest 47,9,user0479,South Korea
+Code Contest 47,10,user04710,Chile
+Code Contest 48,1,user0481,South Korea
+Code Contest 48,2,user0482,Denmark
+Code Contest 48,3,user0483,Spain
+Code Contest 48,4,user0484,Norway
+Code Contest 48,5,user0485,Slovakia
+Code Contest 48,6,user0486,Indonesia
+Code Contest 48,7,user0487,China
+Code Contest 48,8,user0488,India
+Code Contest 48,9,user0489,Denmark
+Code Contest 48,10,user04810,USA
+Code Contest 49,1,user0491,Germany
+Code Contest 49,2,user0492,Thailand
+Code Contest 49,3,user0493,Malaysia
+Code Contest 49,4,user0494,South Korea
+Code Contest 49,5,user0495,Norway
+Code Contest 49,6,user0496,Indonesia
+Code Contest 49,7,user0497,Poland
+Code Contest 49,8,user0498,South Korea
+Code Contest 49,9,user0499,Slovakia
+Code Contest 49,10,user04910,Italy
+Code Contest 50,1,user0501,Belgium
+Code Contest 50,2,user0502,Philippines
+Code Contest 50,3,user0503,Vietnam
+Code Contest 50,4,user0504,Spain
+Code Contest 50,5,user0505,Israel
+Code Contest 50,6,user0506,Greece
+Code Contest 50,7,user0507,Greece
+Code Contest 50,8,user0508,Italy
+Code Contest 50,9,user0509,Chile
+Code Contest 50,10,user05010,Turkey
+Code Contest 51,1,user0511,France
+Code Contest 51,2,user0512,Australia
+Code Contest 51,3,user0513,Slovakia
+Code Contest 51,4,user0514,Chile
+Code Contest 51,5,user0515,Thailand
+Code Contest 51,6,user0516,Sweden
+Code Contest 51,7,user0517,Australia
+Code Contest 51,8,user0518,Mexico
+Code Contest 51,9,user0519,South Korea
+Code Contest 51,10,user05110,Japan
+Code Contest 52,1,user0521,India
+Code Contest 52,2,user0522,Finland
+Code Contest 52,3,user0523,Portugal
+Code Contest 52,4,user0524,Czech Republic
+Code Contest 52,5,user0525,Mexico
+Code Contest 52,6,user0526,Turkey
+Code Contest 52,7,user0527,Thailand
+Code Contest 52,8,user0528,Argentina
+Code Contest 52,9,user0529,Israel
+Code Contest 52,10,user05210,Denmark
+Code Contest 53,1,user0531,Malaysia
+Code Contest 53,2,user0532,India
+Code Contest 53,3,user0533,USA
+Code Contest 53,4,user0534,Ireland
+Code Contest 53,5,user0535,Norway
+Code Contest 53,6,user0536,Mexico
+Code Contest 53,7,user0537,Finland
+Code Contest 53,8,user0538,Poland
+Code Contest 53,9,user0539,Brazil
+Code Contest 53,10,user05310,Belgium
+Code Contest 54,1,user0541,Japan
+Code Contest 54,2,user0542,Germany
+Code Contest 54,3,user0543,South Africa
+Code Contest 54,4,user0544,Israel
+Code Contest 54,5,user0545,Hungary
+Code Contest 54,6,user0546,Indonesia
+Code Contest 54,7,user0547,Mexico
+Code Contest 54,8,user0548,Canada
+Code Contest 54,9,user0549,Israel
+Code Contest 54,10,user05410,China
+Code Contest 55,1,user0551,Israel
+Code Contest 55,2,user0552,South Africa
+Code Contest 55,3,user0553,Indonesia
+Code Contest 55,4,user0554,Vietnam
+Code Contest 55,5,user0555,Spain
+Code Contest 55,6,user0556,Greece
+Code Contest 55,7,user0557,Thailand
+Code Contest 55,8,user0558,Chile
+Code Contest 55,9,user0559,Belgium
+Code Contest 55,10,user05510,Indonesia
+Code Contest 56,1,user0561,Greece
+Code Contest 56,2,user0562,France
+Code Contest 56,3,user0563,Turkey
+Code Contest 56,4,user0564,Greece
+Code Contest 56,5,user0565,Netherlands
+Code Contest 56,6,user0566,Mexico
+Code Contest 56,7,user0567,New Zealand
+Code Contest 56,8,user0568,South Africa
+Code Contest 56,9,user0569,Ireland
+Code Contest 56,10,user05610,Mexico
+Code Contest 57,1,user0571,New Zealand
+Code Contest 57,2,user0572,Greece
+Code Contest 57,3,user0573,Argentina
+Code Contest 57,4,user0574,Slovakia
+Code Contest 57,5,user0575,Mexico
+Code Contest 57,6,user0576,New Zealand
+Code Contest 57,7,user0577,Sweden
+Code Contest 57,8,user0578,Spain
+Code Contest 57,9,user0579,Singapore
+Code Contest 57,10,user05710,Australia
+Code Contest 58,1,user0581,China
+Code Contest 58,2,user0582,Finland
+Code Contest 58,3,user0583,Japan
+Code Contest 58,4,user0584,USA
+Code Contest 58,5,user0585,Finland
+Code Contest 58,6,user0586,Italy
+Code Contest 58,7,user0587,Argentina
+Code Contest 58,8,user0588,Denmark
+Code Contest 58,9,user0589,Denmark
+Code Contest 58,10,user05810,Sweden
+Code Contest 59,1,user0591,Singapore
+Code Contest 59,2,user0592,Israel
+Code Contest 59,3,user0593,Denmark
+Code Contest 59,4,user0594,Hungary
+Code Contest 59,5,user0595,Italy
+Code Contest 59,6,user0596,Denmark
+Code Contest 59,7,user0597,USA
+Code Contest 59,8,user0598,Philippines
+Code Contest 59,9,user0599,Portugal
+Code Contest 59,10,user05910,Malaysia
+Code Contest 60,1,user0601,USA
+Code Contest 60,2,user0602,Turkey
+Code Contest 60,3,user0603,Poland
+Code Contest 60,4,user0604,Switzerland
+Code Contest 60,5,user0605,South Korea
+Code Contest 60,6,user0606,USA
+Code Contest 60,7,user0607,Denmark
+Code Contest 60,8,user0608,Singapore
+Code Contest 60,9,user0609,Singapore
+Code Contest 60,10,user06010,Vietnam
+Code Contest 61,1,user0611,Japan
+Code Contest 61,2,user0612,Ireland
+Code Contest 61,3,user0613,Japan
+Code Contest 61,4,user0614,New Zealand
+Code Contest 61,5,user0615,Belgium
+Code Contest 61,6,user0616,Ireland
+Code Contest 61,7,user0617,Portugal
+Code Contest 61,8,user0618,USA
+Code Contest 61,9,user0619,Sweden
+Code Contest 61,10,user06110,Norway
+Code Contest 62,1,user0621,France
+Code Contest 62,2,user0622,Israel
+Code Contest 62,3,user0623,China
+Code Contest 62,4,user0624,Thailand
+Code Contest 62,5,user0625,Singapore
+Code Contest 62,6,user0626,Portugal
+Code Contest 62,7,user0627,Norway
+Code Contest 62,8,user0628,Philippines
+Code Contest 62,9,user0629,Malaysia
+Code Contest 62,10,user06210,Portugal
+Code Contest 63,1,user0631,Australia
+Code Contest 63,2,user0632,Belgium
+Code Contest 63,3,user0633,China
+Code Contest 63,4,user0634,Israel
+Code Contest 63,5,user0635,Germany
+Code Contest 63,6,user0636,Hungary
+Code Contest 63,7,user0637,Netherlands
+Code Contest 63,8,user0638,USA
+Code Contest 63,9,user0639,Spain
+Code Contest 63,10,user06310,Italy
+Code Contest 64,1,user0641,Israel
+Code Contest 64,2,user0642,Spain
+Code Contest 64,3,user0643,Sweden
+Code Contest 64,4,user0644,USA
+Code Contest 64,5,user0645,New Zealand
+Code Contest 64,6,user0646,Denmark
+Code Contest 64,7,user0647,Netherlands
+Code Contest 64,8,user0648,Australia
+Code Contest 64,9,user0649,Turkey
+Code Contest 64,10,user06410,Portugal
+Code Contest 65,1,user0651,Singapore
+Code Contest 65,2,user0652,Hungary
+Code Contest 65,3,user0653,Switzerland
+Code Contest 65,4,user0654,Japan
+Code Contest 65,5,user0655,Argentina
+Code Contest 65,6,user0656,Czech Republic
+Code Contest 65,7,user0657,Portugal
+Code Contest 65,8,user0658,Mexico
+Code Contest 65,9,user0659,India
+Code Contest 65,10,user06510,Portugal
+Code Contest 66,1,user0661,Thailand
+Code Contest 66,2,user0662,Finland
+Code Contest 66,3,user0663,Mexico
+Code Contest 66,4,user0664,China
+Code Contest 66,5,user0665,Turkey
+Code Contest 66,6,user0666,Canada
+Code Contest 66,7,user0667,Malaysia
+Code Contest 66,8,user0668,Italy
+Code Contest 66,9,user0669,Israel
+Code Contest 66,10,user06610,Netherlands
+Code Contest 67,1,user0671,United Kingdom
+Code Contest 67,2,user0672,France
+Code Contest 67,3,user0673,Vietnam
+Code Contest 67,4,user0674,Vietnam
+Code Contest 67,5,user0675,Canada
+Code Contest 67,6,user0676,France
+Code Contest 67,7,user0677,South Korea
+Code Contest 67,8,user0678,Brazil
+Code Contest 67,9,user0679,Philippines
+Code Contest 67,10,user06710,Portugal
+Code Contest 68,1,user0681,South Korea
+Code Contest 68,2,user0682,Malaysia
+Code Contest 68,3,user0683,USA
+Code Contest 68,4,user0684,Norway
+Code Contest 68,5,user0685,India
+Code Contest 68,6,user0686,Argentina
+Code Contest 68,7,user0687,Philippines
+Code Contest 68,8,user0688,Mexico
+Code Contest 68,9,user0689,Brazil
+Code Contest 68,10,user06810,South Korea
+Code Contest 69,1,user0691,Vietnam
+Code Contest 69,2,user0692,Canada
+Code Contest 69,3,user0693,Malaysia
+Code Contest 69,4,user0694,Czech Republic
+Code Contest 69,5,user0695,Switzerland
+Code Contest 69,6,user0696,Singapore
+Code Contest 69,7,user0697,Belgium
+Code Contest 69,8,user0698,United Kingdom
+Code Contest 69,9,user0699,Argentina
+Code Contest 69,10,user06910,Chile
+Code Contest 70,1,user0701,Sweden
+Code Contest 70,2,user0702,Poland
+Code Contest 70,3,user0703,Denmark
+Code Contest 70,4,user0704,Ireland
+Code Contest 70,5,user0705,Brazil
+Code Contest 70,6,user0706,Belgium
+Code Contest 70,7,user0707,United Kingdom
+Code Contest 70,8,user0708,Israel
+Code Contest 70,9,user0709,Finland
+Code Contest 70,10,user07010,Belgium
+Code Contest 71,1,user0711,Germany
+Code Contest 71,2,user0712,South Africa
+Code Contest 71,3,user0713,New Zealand
+Code Contest 71,4,user0714,Thailand
+Code Contest 71,5,user0715,Singapore
+Code Contest 71,6,user0716,Turkey
+Code Contest 71,7,user0717,Israel
+Code Contest 71,8,user0718,Belgium
+Code Contest 71,9,user0719,Philippines
+Code Contest 71,10,user07110,New Zealand
+Code Contest 72,1,user0721,Spain
+Code Contest 72,2,user0722,Mexico
+Code Contest 72,3,user0723,Australia
+Code Contest 72,4,user0724,New Zealand
+Code Contest 72,5,user0725,Greece
+Code Contest 72,6,user0726,Mexico
+Code Contest 72,7,user0727,Israel
+Code Contest 72,8,user0728,Malaysia
+Code Contest 72,9,user0729,Thailand
+Code Contest 72,10,user07210,USA
+Code Contest 73,1,user0731,Sweden
+Code Contest 73,2,user0732,Portugal
+Code Contest 73,3,user0733,Ireland
+Code Contest 73,4,user0734,Spain
+Code Contest 73,5,user0735,Germany
+Code Contest 73,6,user0736,Ireland
+Code Contest 73,7,user0737,Italy
+Code Contest 73,8,user0738,Switzerland
+Code Contest 73,9,user0739,Netherlands
+Code Contest 73,10,user07310,Sweden
+Code Contest 74,1,user0741,New Zealand
+Code Contest 74,2,user0742,Vietnam
+Code Contest 74,3,user0743,New Zealand
+Code Contest 74,4,user0744,Indonesia
+Code Contest 74,5,user0745,Poland
+Code Contest 74,6,user0746,South Africa
+Code Contest 74,7,user0747,India
+Code Contest 74,8,user0748,Australia
+Code Contest 74,9,user0749,Mexico
+Code Contest 74,10,user07410,Denmark
+Code Contest 75,1,user0751,Ireland
+Code Contest 75,2,user0752,Indonesia
+Code Contest 75,3,user0753,Mexico
+Code Contest 75,4,user0754,Turkey
+Code Contest 75,5,user0755,Ireland
+Code Contest 75,6,user0756,Greece
+Code Contest 75,7,user0757,Portugal
+Code Contest 75,8,user0758,Australia
+Code Contest 75,9,user0759,Slovakia
+Code Contest 75,10,user07510,Japan
+Code Contest 76,1,user0761,Norway
+Code Contest 76,2,user0762,Mexico
+Code Contest 76,3,user0763,South Korea
+Code Contest 76,4,user0764,Philippines
+Code Contest 76,5,user0765,United Kingdom
+Code Contest 76,6,user0766,Turkey
+Code Contest 76,7,user0767,Indonesia
+Code Contest 76,8,user0768,South Africa
+Code Contest 76,9,user0769,Switzerland
+Code Contest 76,10,user07610,Belgium
+Code Contest 77,1,user0771,Indonesia
+Code Contest 77,2,user0772,Sweden
+Code Contest 77,3,user0773,Switzerland
+Code Contest 77,4,user0774,Israel
+Code Contest 77,5,user0775,New Zealand
+Code Contest 77,6,user0776,South Korea
+Code Contest 77,7,user0777,Netherlands
+Code Contest 77,8,user0778,Japan
+Code Contest 77,9,user0779,Canada
+Code Contest 77,10,user07710,India
+Code Contest 78,1,user0781,Spain
+Code Contest 78,2,user0782,Canada
+Code Contest 78,3,user0783,Singapore
+Code Contest 78,4,user0784,Germany
+Code Contest 78,5,user0785,India
+Code Contest 78,6,user0786,Italy
+Code Contest 78,7,user0787,Turkey
+Code Contest 78,8,user0788,New Zealand
+Code Contest 78,9,user0789,Philippines
+Code Contest 78,10,user07810,South Africa
+Code Contest 79,1,user0791,Vietnam
+Code Contest 79,2,user0792,Slovakia
+Code Contest 79,3,user0793,Brazil
+Code Contest 79,4,user0794,India
+Code Contest 79,5,user0795,Slovakia
+Code Contest 79,6,user0796,Japan
+Code Contest 79,7,user0797,United Kingdom
+Code Contest 79,8,user0798,Germany
+Code Contest 79,9,user0799,South Korea
+Code Contest 79,10,user07910,Poland
+Code Contest 80,1,user0801,Singapore
+Code Contest 80,2,user0802,China
+Code Contest 80,3,user0803,New Zealand
+Code Contest 80,4,user0804,Czech Republic
+Code Contest 80,5,user0805,Hungary
+Code Contest 80,6,user0806,Indonesia
+Code Contest 80,7,user0807,Slovakia
+Code Contest 80,8,user0808,China
+Code Contest 80,9,user0809,Ireland
+Code Contest 80,10,user08010,Brazil
+Code Contest 81,1,user0811,Poland
+Code Contest 81,2,user0812,Malaysia
+Code Contest 81,3,user0813,Slovakia
+Code Contest 81,4,user0814,Turkey
+Code Contest 81,5,user0815,Turkey
+Code Contest 81,6,user0816,Greece
+Code Contest 81,7,user0817,Sweden
+Code Contest 81,8,user0818,Germany
+Code Contest 81,9,user0819,Hungary
+Code Contest 81,10,user08110,Netherlands
+Code Contest 82,1,user0821,Turkey
+Code Contest 82,2,user0822,Canada
+Code Contest 82,3,user0823,Argentina
+Code Contest 82,4,user0824,Norway
+Code Contest 82,5,user0825,Ireland
+Code Contest 82,6,user0826,Argentina
+Code Contest 82,7,user0827,Malaysia
+Code Contest 82,8,user0828,Hungary
+Code Contest 82,9,user0829,Finland
+Code Contest 82,10,user08210,Finland
+Code Contest 83,1,user0831,Malaysia
+Code Contest 83,2,user0832,South Korea
+Code Contest 83,3,user0833,Australia
+Code Contest 83,4,user0834,Mexico
+Code Contest 83,5,user0835,Canada
+Code Contest 83,6,user0836,Indonesia
+Code Contest 83,7,user0837,Denmark
+Code Contest 83,8,user0838,Vietnam
+Code Contest 83,9,user0839,Vietnam
+Code Contest 83,10,user08310,Thailand
+Code Contest 84,1,user0841,Japan
+Code Contest 84,2,user0842,South Africa
+Code Contest 84,3,user0843,USA
+Code Contest 84,4,user0844,Greece
+Code Contest 84,5,user0845,Greece
+Code Contest 84,6,user0846,South Korea
+Code Contest 84,7,user0847,Philippines
+Code Contest 84,8,user0848,Belgium
+Code Contest 84,9,user0849,South Korea
+Code Contest 84,10,user08410,Malaysia
+Code Contest 85,1,user0851,Thailand
+Code Contest 85,2,user0852,Hungary
+Code Contest 85,3,user0853,Thailand
+Code Contest 85,4,user0854,Brazil
+Code Contest 85,5,user0855,Italy
+Code Contest 85,6,user0856,Italy
+Code Contest 85,7,user0857,Netherlands
+Code Contest 85,8,user0858,Australia
+Code Contest 85,9,user0859,France
+Code Contest 85,10,user08510,Mexico
+Code Contest 86,1,user0861,Germany
+Code Contest 86,2,user0862,Indonesia
+Code Contest 86,3,user0863,Argentina
+Code Contest 86,4,user0864,France
+Code Contest 86,5,user0865,Poland
+Code Contest 86,6,user0866,Denmark
+Code Contest 86,7,user0867,Greece
+Code Contest 86,8,user0868,Vietnam
+Code Contest 86,9,user0869,Turkey
+Code Contest 86,10,user08610,Slovakia
+Code Contest 87,1,user0871,Czech Republic
+Code Contest 87,2,user0872,Japan
+Code Contest 87,3,user0873,Slovakia
+Code Contest 87,4,user0874,Slovakia
+Code Contest 87,5,user0875,Israel
+Code Contest 87,6,user0876,Argentina
+Code Contest 87,7,user0877,Japan
+Code Contest 87,8,user0878,Netherlands
+Code Contest 87,9,user0879,Philippines
+Code Contest 87,10,user08710,India
+Code Contest 88,1,user0881,Belgium
+Code Contest 88,2,user0882,Canada
+Code Contest 88,3,user0883,Singapore
+Code Contest 88,4,user0884,Japan
+Code Contest 88,5,user0885,Finland
+Code Contest 88,6,user0886,New Zealand
+Code Contest 88,7,user0887,Finland
+Code Contest 88,8,user0888,Argentina
+Code Contest 88,9,user0889,Hungary
+Code Contest 88,10,user08810,France
+Code Contest 89,1,user0891,South Korea
+Code Contest 89,2,user0892,Vietnam
+Code Contest 89,3,user0893,Malaysia
+Code Contest 89,4,user0894,Slovakia
+Code Contest 89,5,user0895,Greece
+Code Contest 89,6,user0896,Canada
+Code Contest 89,7,user0897,Israel
+Code Contest 89,8,user0898,South Korea
+Code Contest 89,9,user0899,Norway
+Code Contest 89,10,user08910,New Zealand
+Code Contest 90,1,user0901,Chile
+Code Contest 90,2,user0902,Singapore
+Code Contest 90,3,user0903,Ireland
+Code Contest 90,4,user0904,Greece
+Code Contest 90,5,user0905,Australia
+Code Contest 90,6,user0906,Vietnam
+Code Contest 90,7,user0907,Czech Republic
+Code Contest 90,8,user0908,Belgium
+Code Contest 90,9,user0909,Spain
+Code Contest 90,10,user09010,Vietnam
+Code Contest 91,1,user0911,Netherlands
+Code Contest 91,2,user0912,Portugal
+Code Contest 91,3,user0913,Australia
+Code Contest 91,4,user0914,Japan
+Code Contest 91,5,user0915,Malaysia
+Code Contest 91,6,user0916,Philippines
+Code Contest 91,7,user0917,Portugal
+Code Contest 91,8,user0918,New Zealand
+Code Contest 91,9,user0919,Malaysia
+Code Contest 91,10,user09110,Czech Republic
+Code Contest 92,1,user0921,Germany
+Code Contest 92,2,user0922,Turkey
+Code Contest 92,3,user0923,South Africa
+Code Contest 92,4,user0924,Greece
+Code Contest 92,5,user0925,New Zealand
+Code Contest 92,6,user0926,Germany
+Code Contest 92,7,user0927,Philippines
+Code Contest 92,8,user0928,Belgium
+Code Contest 92,9,user0929,Ireland
+Code Contest 92,10,user09210,Australia
+Code Contest 93,1,user0931,Turkey
+Code Contest 93,2,user0932,Switzerland
+Code Contest 93,3,user0933,Denmark
+Code Contest 93,4,user0934,Sweden
+Code Contest 93,5,user0935,Spain
+Code Contest 93,6,user0936,Brazil
+Code Contest 93,7,user0937,France
+Code Contest 93,8,user0938,Sweden
+Code Contest 93,9,user0939,Denmark
+Code Contest 93,10,user09310,Ireland
+Code Contest 94,1,user0941,Slovakia
+Code Contest 94,2,user0942,Norway
+Code Contest 94,3,user0943,Indonesia
+Code Contest 94,4,user0944,Czech Republic
+Code Contest 94,5,user0945,Israel
+Code Contest 94,6,user0946,Australia
+Code Contest 94,7,user0947,Spain
+Code Contest 94,8,user0948,Netherlands
+Code Contest 94,9,user0949,Spain
+Code Contest 94,10,user09410,Canada
+Code Contest 95,1,user0951,Norway
+Code Contest 95,2,user0952,Chile
+Code Contest 95,3,user0953,Poland
+Code Contest 95,4,user0954,Singapore
+Code Contest 95,5,user0955,Israel
+Code Contest 95,6,user0956,Denmark
+Code Contest 95,7,user0957,Hungary
+Code Contest 95,8,user0958,India
+Code Contest 95,9,user0959,South Africa
+Code Contest 95,10,user09510,United Kingdom
+Code Contest 96,1,user0961,Thailand
+Code Contest 96,2,user0962,Ireland
+Code Contest 96,3,user0963,Greece
+Code Contest 96,4,user0964,Hungary
+Code Contest 96,5,user0965,Italy
+Code Contest 96,6,user0966,New Zealand
+Code Contest 96,7,user0967,Indonesia
+Code Contest 96,8,user0968,China
+Code Contest 96,9,user0969,Slovakia
+Code Contest 96,10,user09610,Greece
+Code Contest 97,1,user0971,Ireland
+Code Contest 97,2,user0972,Canada
+Code Contest 97,3,user0973,Portugal
+Code Contest 97,4,user0974,Vietnam
+Code Contest 97,5,user0975,Mexico
+Code Contest 97,6,user0976,France
+Code Contest 97,7,user0977,South Korea
+Code Contest 97,8,user0978,Indonesia
+Code Contest 97,9,user0979,Poland
+Code Contest 97,10,user09710,Indonesia
+Code Contest 98,1,user0981,Denmark
+Code Contest 98,2,user0982,Australia
+Code Contest 98,3,user0983,Japan
+Code Contest 98,4,user0984,Canada
+Code Contest 98,5,user0985,Israel
+Code Contest 98,6,user0986,Canada
+Code Contest 98,7,user0987,Finland
+Code Contest 98,8,user0988,Ireland
+Code Contest 98,9,user0989,Slovakia
+Code Contest 98,10,user09810,Chile
+Code Contest 99,1,user0991,New Zealand
+Code Contest 99,2,user0992,Denmark
+Code Contest 99,3,user0993,Turkey
+Code Contest 99,4,user0994,Turkey
+Code Contest 99,5,user0995,Mexico
+Code Contest 99,6,user0996,Israel
+Code Contest 99,7,user0997,Indonesia
+Code Contest 99,8,user0998,Finland
+Code Contest 99,9,user0999,USA
+Code Contest 99,10,user09910,India
+Code Contest 100,1,user1001,Vietnam
+Code Contest 100,2,user1002,Chile
+Code Contest 100,3,user1003,China
+Code Contest 100,4,user1004,Argentina
+Code Contest 100,5,user1005,New Zealand
+Code Contest 100,6,user1006,Denmark
+Code Contest 100,7,user1007,Sweden
+Code Contest 100,8,user1008,Chile
+Code Contest 100,9,user1009,New Zealand
+Code Contest 100,10,user10010,Poland
