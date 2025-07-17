@@ -18,4 +18,3 @@ significantly among nations with similar economic output to Poland.
 - Python
 - Jupyter Notebook
 - Pandas, NumPy, Matplotlib, Seaborn
-\nData is stored in `extended_contests_v2.csv` and is artificial due to offline restrictions.
